@@ -1,0 +1,32 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Space Ocean Kit Refined",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.activityBar.visible": false,
+    "editor.minimap.maxColumn": 100,
+    "markdown.preview.fontSize": 10,
+    "files.defaultLanguage": "html",
+    "workbench.editor.tabSizing": "shrink",
+    "editor.detectIndentation": false,
+    "editor.glyphMargin": false,
+    "editor.smoothScrolling": true,
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "vscode-icons",
+    "git.ignoreWindowsGit27Warning": true,
+    "autoprefixer.options": {
+        "browsers": [
+            "last 5 versions",
+            "ie >= 9",
+            "> 5%"
+        ]
+    },
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": true,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.hover.enabled": false,
+    "editor.mouseWheelZoom": true
+}
